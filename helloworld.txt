@@ -1,4 +1,0 @@
-
-I am learning git.
-
-Still trying to learn git.
